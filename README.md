@@ -15,8 +15,8 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
   * [Hide iOS Keyboard](https://gist.github.com/luhagel/652b960005a95c5c29ec21a52e74d700) by Mehul
 5. Libraries/Extensions:
   * [Curated List of iOS Projects](https://github.com/vsouza/awesome-ios) by Izaak
-  * [Material Design for iOS](https://github.com/CosmicMind/Material) by Mehul
-  * [Toast Swift](https://github.com/scalessec/Toast-Swift) by [@kylar13](https://github.com/kylar13)
+  * [Material Design for iOS](https://github.com/CosmicMind/Material) by [@Mehul](https://github.com/mehulajith)
+  * [Toast Swift](https://github.com/scalessec/Toast-Swift) by [@kylar13](https://github.com/kylar13) -> Ramon
 6. Blogs and Books:
   * [Little bits of cocoa](https://littlebitesofcocoa.com/) by Jesse
   * [Launchshelf](https://launchschool.com/books) by Fiona
