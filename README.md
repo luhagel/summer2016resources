@@ -24,6 +24,8 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
   * [User Onboarding](http://www.useronboard.com/) by Slavik
 8. Terminal
   * [OhMyZSH](http://ohmyz.sh/) by Michael
+9. Art & Design:
+  * [iOS 10 Asset Library for Sketch](http://ios10.greatsimple.io/) by Guille
 
 ---
 
