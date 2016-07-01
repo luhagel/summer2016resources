@@ -11,6 +11,7 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
   * [Snippet Manager](http://getsourceapp.com/) by [@Wilsonilo](https://github.com/Wilsonilo)
 3. Articles:
   * [Productivity Tools](https://medium.com/@cliffweitzman/my-top-productivity-tools-e7c00b58f807#.z38j1i5j1) by [@cliffweitzman](https://github.com/cliffweitzmann)
+  * [Quora answer on beeing a better Programmer](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know/answer/Ken-Mazaika?srid=KeX7) by [@luhagel](https://github.com/luhagel)
 4. Snippets:
   * [Hide iOS Keyboard](https://gist.github.com/luhagel/652b960005a95c5c29ec21a52e74d700) by [@Mehul](https://github.com/mehulajith)
 5. Libraries/Extensions:
