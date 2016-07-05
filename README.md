@@ -9,6 +9,7 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
   * [Perfect - Swift-based Server](http://perfect.org/index.html) by Jorge
 2. Tools:
   * [Snippet Manager](http://getsourceapp.com/) by [@Wilsonilo](https://github.com/Wilsonilo)
+  * [8-Bit Text&Logo Generator](http://textcraft.net/) by Guillermo 
 3. Articles:
   * [Productivity Tools](https://medium.com/@cliffweitzman/my-top-productivity-tools-e7c00b58f807#.z38j1i5j1) by [@cliffweitzman](https://github.com/cliffweitzmann)
   * [Quora answer on beeing a better Programmer](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know/answer/Ken-Mazaika?srid=KeX7) by [@luhagel](https://github.com/luhagel)
