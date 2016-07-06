@@ -29,6 +29,9 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
   * [^Configuring ZSH and iTerm](https://www.youtube.com/watch?v=rl7PzPAZDyY&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf) by [@luhagel](https://github.com/luhagel)
 9. Art & Design:
   * [iOS 10 Asset Library for Sketch](http://ios10.greatsimple.io/) by Guille
+10. Misc:
+ * [Using Oauth2](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html) by Zain
+ * [Oauth2 in Alamofire](https://grokswift.com/alamofire-OAuth2/) by Brian
 
 ---
 
