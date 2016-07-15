@@ -7,9 +7,13 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
 
 1. Frameworks:
   * [Perfect - Swift-based Server](http://perfect.org/index.html) by Jorge
+  * [Facebook Swift SDK](https://github.com/facebook/facebook-sdk-swift) by Olivia
 2. Tools:
   * [Snippet Manager](http://getsourceapp.com/) by [@Wilsonilo](https://github.com/Wilsonilo)
   * [8-Bit Text&Logo Generator](http://textcraft.net/) by Guillermo 
+  * [Copper Phone Number Signup](https://withcopper.com/) by [@Wilsonilo](https://github.com/Wilsonilo)
+  * [Adobe Experience Design](http://www.adobe.com/de/products/experience-design.html) by [@Wilsonilo](https://github.com/Wilsonilo)
+  * [POP Paper Prototyping](https://popapp.in/) by Guillermo
 3. Articles:
   * [Productivity Tools](https://medium.com/@cliffweitzman/my-top-productivity-tools-e7c00b58f807#.z38j1i5j1) by [@cliffweitzman](https://github.com/cliffweitzmann)
   * [Quora answer on beeing a better Programmer](https://www.quora.com/What-are-some-traits-practices-of-experienced-good-programmers-that-every-beginner-programmer-should-know/answer/Ken-Mazaika?srid=KeX7) by [@luhagel](https://github.com/luhagel)
@@ -32,6 +36,9 @@ A compilation of the resources shared during MakeSchool Summer Academy 2016
 10. Misc:
  * [Using Oauth2](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html) by Zain
  * [Oauth2 in Alamofire](https://grokswift.com/alamofire-OAuth2/) by Brian
+ * [iOS User Signup with Ruby (for Swift 1.2)](https://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift) by Dylan
+ * [Github Student Pack](https://education.github.com/pack) by Stanford
+ * [Renaming XCode Projects](https://www.youtube.com/watch?v=jRnVjtNLLLk) by Jorge
 
 ---
 
